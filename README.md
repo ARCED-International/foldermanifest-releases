@@ -12,8 +12,8 @@ FolderManifest scans any directory and generates a complete manifest — every f
 
 [![Download for Windows](https://img.shields.io/badge/Download-Windows%20Installer-0078d4?style=for-the-badge&logo=windows)](https://github.com/arced-international/foldermanifest-releases/releases/latest/download/FolderManifest-Setup.exe)
 
-- **Installer (recommended):** `FolderManifest-Setup-x.x.x.exe` — installs with auto-update
-- **Portable:** `FolderManifest-x.x.x.exe` — run without installing
+- **Installer (recommended):** [`FolderManifest-Setup.exe`](https://github.com/arced-international/foldermanifest-releases/releases/latest/download/FolderManifest-Setup.exe) — installs with auto-update
+- **Portable:** [`FolderManifest-Portable.exe`](https://github.com/arced-international/foldermanifest-releases/releases/latest/download/FolderManifest-Portable.exe) — run without installing
 
 > Windows builds are signed with Azure Artifact Signing (Microsoft-verified publisher). No SmartScreen warning.
 
@@ -21,9 +21,9 @@ FolderManifest scans any directory and generates a complete manifest — every f
 
 [![Download AppImage](https://img.shields.io/badge/Download-Linux%20AppImage-f97316?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/arced-international/foldermanifest-releases/releases/latest/download/FolderManifest.AppImage)
 
-- **AppImage:** runs on any distro — no install needed
-- **`.deb`:** Ubuntu / Debian / Mint — system integration + launcher icon
-- **`tar.gz`:** other distributions
+- **AppImage:** [`FolderManifest.AppImage`](https://github.com/arced-international/foldermanifest-releases/releases/latest/download/FolderManifest.AppImage) — runs on any distro, no install needed
+- **`.deb`:** [`FolderManifest.deb`](https://github.com/arced-international/foldermanifest-releases/releases/latest/download/FolderManifest.deb) — Ubuntu / Debian / Mint
+- **`tar.gz`:** [`FolderManifest.tar.gz`](https://github.com/arced-international/foldermanifest-releases/releases/latest/download/FolderManifest.tar.gz) — other distributions
 
 ---
 
