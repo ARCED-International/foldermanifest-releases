@@ -85,12 +85,6 @@ Yes — every feature is available via CLI with stable JSON output and exit code
 
 ---
 
-## Auto-update
-
-The NSIS installer includes auto-update. FolderManifest checks this repo for new releases and updates silently in the background — no manual re-download needed.
-
----
-
 ## Reviews & listings
 
 - [Product Hunt](https://www.producthunt.com/products/foldermanifest)
